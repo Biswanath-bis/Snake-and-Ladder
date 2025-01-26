@@ -1,2 +1,2 @@
-#snake and ladder
-#author:Biswanath bhuyan
+# snake and ladder
+# author:Biswanath bhuyan
